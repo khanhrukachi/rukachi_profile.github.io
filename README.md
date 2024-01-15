@@ -22,3 +22,36 @@
     <img alt="Follow me on Instagram" src="https://img.shields.io/badge/Follow%20me%20on-Instagram-pink?style=for-the-badge&logo=instagram">
   </a>
 </p>
+
+
+
+## 💫 About Me
+<img src="/resource/gif/Developer.gif" align="right"/>
+
+- 😊 I’m currently learning **Software Engineering** 
+
+- 🌱 I'm 3rd-year student at **University of Transport and Communications campus in HCMC**
+
+- 🌏 I'm living now in **Ho Chi Minh Province, Viet Nam**
+
+- 📫 How to reach me **phamquockhanh.dev@gmail.com**
+
+<br>
+<br>
+
+```java
+public class Main {
+    public static void main(String[] args) {
+        K1ethoang.say.quotes("Ngày hôm nay tốt hơn ngày hôm qua");
+	K1ethoang.say.quotes("Càng học càng thấy mình ngu");
+    }
+}
+```
+
+<div align="center">
+
+|**🌑 Today's Moon**|**🎧 Spotify Playing**|
+|:---:|:---:|
+|[![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=ray&rotate=0)](https://moon-svg.minung.dev) [![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic&rotate=0)](https://moon-svg.minung.dev)|[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pits56ip4lozpoo0xzvyti5w2&cover_image=true&theme=natemoo-re&show_offline=false&interchange=false)](https://open.spotify.com/user/pits56ip4lozpoo0xzvyti5w2)|
+
+</div>
