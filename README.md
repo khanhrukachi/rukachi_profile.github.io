@@ -13,6 +13,6 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/khanhrukachi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
   <a target="_blank" href="https://github.com/khanhrukachi">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=K1ethoang&color=7C007C&labelColor=640464&style=for-the-badge&label=Visitors&&base=1000"/>
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=khanhrukachi&color=7C007C&labelColor=640464&style=for-the-badge&label=Visitors&&base=1000"/>
   </a>
 </p>
