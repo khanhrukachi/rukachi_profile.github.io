@@ -1,10 +1,10 @@
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
-  <a target="_blank" href="https://www.youtube.com/@RUKACHIDEV">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UCPR0ZIR8vDoyqZ_Tp6x9Zow?style=for-the-badge&logo=youtube&labelColor=CE4630&color=E05D44"/>
+  <a target="_blank" href="https://www.youtube.com/@phamquockhanh7352">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UCNhi5NBlMT7V09MzuwD85Aw?style=for-the-badge&logo=youtube&labelColor=CE4630&color=E05D44"/>
   </a>
-  <a target="_blank" href="https://www.youtube.com/@RUKACHIDEV">
-    <img alt="youtube views" title="YouTube views" src="https://img.shields.io/youtube/channel/views/UCPR0ZIR8vDoyqZ_Tp6x9Zow?style=for-the-badge&logo=youtube&labelColor=C79600&color=E1AD0E"/>
+  <a target="_blank" href="https://www.youtube.com/@phamquockhanh7352">
+    <img alt="youtube views" title="YouTube views" src="https://img.shields.io/youtube/channel/views/UCNhi5NBlMT7V09MzuwD85Aw?style=for-the-badge&logo=youtube&labelColor=C79600&color=E1AD0E"/>
   </a> 
   <a target="_blank" href="https://github.com/khanhrukachi?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/khanhrukachi?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
