@@ -15,4 +15,10 @@
   <a target="_blank" href="https://github.com/khanhrukachi">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=khanhrukachi&color=7C007C&labelColor=640464&style=for-the-badge&label=Visitors&&base=1000"/>
   </a>
+  <a href="https://www.facebook.com/phamquockhanh7352/" target="_blank">
+    <img alt="Follow me on Facebook" src="https://img.shields.io/badge/Follow%20me%20on-Facebook-blue?style=for-the-badge&logo=facebook">
+  </a>
+  <a href="https://www.instagram.com/pqk_7352/" target="_blank">
+    <img alt="Follow me on Instagram" src="https://img.shields.io/badge/Follow%20me%20on-Instagram-pink?style=for-the-badge&logo=instagram">
+  </a>
 </p>
