@@ -16,6 +16,6 @@
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=khanhrukachi&color=7C007C&labelColor=640464&style=for-the-badge&label=Visitors&&base=1000"/>
   </a>
 
-  [![Follow me on Facebook](https://img.shields.io/badge/Follow%20me%20on-Facebook-blue?style=for-the-badge&logo=facebook)](URL_TO_YOUR_FACEBOOK_PROFILE)
+  [![Follow me on Facebook](https://img.shields.io/badge/Follow%20me%20on-Facebook-blue?style=for-the-badge&logo=facebook)]([URL_TO_YOUR_FACEBOOK_PROFILE](https://www.facebook.com/phamquockhanh7352/)
 
 </p>
