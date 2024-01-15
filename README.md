@@ -39,13 +39,25 @@
 <br>
 <br>
 
-```java
-public class Main {
-    public static void main(String[] args) {
-        K1ethoang.say.quotes("Ngày hôm nay tốt hơn ngày hôm qua");
-	K1ethoang.say.quotes("Càng học càng thấy mình ngu");
-    }
+```dart
+class MyHomePage extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: Text('Flutter App'),
+      ),
+      body: Column(
+        mainAxisAlignment: MainAxisAlignment.center,
+        crossAxisAlignment: CrossAxisAlignment.center,
+        children: [
+          SayWidget(quote: "If you l tired, learn to rest, not to quit."),
+        ],
+      ),
+    );
+  }
 }
+
 ```
 
 <div align="center">
